@@ -1,7 +1,7 @@
 # Winnipeg.js Talks
 
 > This is a talk repo so you can add your proposal to talk at [Winnipeg.js](https://winnipeg-js.herokuapp.com).
-* [Join our Slack](slack.winnipegjs.org)
+* [Join our Slack](http://slack.winnipegjs.org)
 
 This repo is based in [Meetup.js Argetina](https://github.com/meetupjs-ar/charlas) one.
 
